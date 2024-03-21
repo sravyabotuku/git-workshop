@@ -3,7 +3,7 @@ name: CI-Multi-Jobs
 on:
   push:
     branches:
-      - python-packaging
+      - python_packaging
   workflow_dispatch:
 
 jobs:
